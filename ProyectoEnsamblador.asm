@@ -61,7 +61,7 @@ CLEAR_SCREEN PROC NEAR
         RET
 CLEAR_SCREEN ENDP
 skip_proc_clear_screen:
-DEFINE_CLEAR_SCREEN     ENDM
+ENDM
                      
 ;------------------------------------------- Print ----------------------------------------------
   
